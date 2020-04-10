@@ -1,0 +1,8 @@
+import os
+import time
+import sys 
+import simpleaudio 
+import pandas  
+import csv
+import sklearn
+from termcolor import colored, cprint 
